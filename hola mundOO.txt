@@ -1,0 +1,7 @@
+package hola.mundo;
+public class Hola mundo {   
+    public static void main(String[] args) {
+        System.out.println("hola mundo ");
+    }
+    
+}
